@@ -1,4 +1,4 @@
-// You can edit this code!
+// EDITED!
 // Click here and start typing.
 package main
 
